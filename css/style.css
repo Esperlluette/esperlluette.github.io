@@ -1,0 +1,13 @@
+.body {
+    background-color: #222222;
+}
+
+.links {
+    width: 100%;
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+.linkedin{
+    position: flex;
+    float: right;
+}
